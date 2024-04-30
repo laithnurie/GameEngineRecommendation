@@ -1,11 +1,6 @@
 # Game Engine recommendation
 Goal is to return a list of recommendations based on a selected game id
 
-Please check games.csv file
-
-# Game Engine recommendation
-Goal is to return a list of recommendations based on a selected game id
-
 Please check [games.csv](https://github.com/laithnurie/GameEngineRecommendation/blob/main/games.csv) file, this is the raw csv file from database
 
 Currently I am brute forcing the recommendation engines in a high computational manner, instead I want to use Content-Based Recommendation Algorithm.
